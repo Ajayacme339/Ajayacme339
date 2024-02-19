@@ -19,8 +19,8 @@
      - To Lead and Mentor a data engineering Team
      - To Learn How to architect better data system
  
--  🧑🏻‍🏫 My Future Aspiration
-      - To Build efficent,scalable and reliable real time streaming load pipeline
+-  ### 📖 My Tech Stack
+   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
       - To Contribute more towards open source projects 
       - To Lead and Mentor a data engineering Team
       - To Learn How to architect better data system 
