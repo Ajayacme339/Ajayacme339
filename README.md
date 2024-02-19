@@ -20,12 +20,13 @@
      - To Learn How to architect better data system
  
 -  ### 📖 My Tech Stack
-   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-   ![snowflake_logo_icon_168808](https://github.com/Ajayacme339/Ajayacme339/assets/60890279/1677cd6c-bfa7-4922-b0b9-37a3e6837151)
-
-      - To Contribute more towards open source projects 
-      - To Lead and Mentor a data engineering Team
-      - To Learn How to architect better data system 
+      - Languages - Python
+      - Databases - SQL Server,Oracle,IBM DB2,Mongo DB,Netezza,Postgre SQL,S3 and Azure SQL Database
+      - Data WareHouse - Azure Synapse Analytics,Snowflake,Redshift
+      - BI/Visualization Tool - Power BI, Tableau
+      - Data Integration/ETL Tool - Informatica Powercenter, Informatica IDQ , Azure Data Factory
+      - Big Data Framework/Technology - Apache Spark,Apache Airflow,Pyspark and SparkSQL
+   
 - 📫 Here's how you can reach me: [LinkedIn] (https://www.linkedin.com/in/ajay-kumar-56599626b)
 
 - My Certifications and Courses
