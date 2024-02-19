@@ -5,7 +5,7 @@
 
 - 😄 My pronouns are: He/His/Him
 - 🔭 I’m currently working as a Data engineer at Centene Corportaion
-- 👯 I'm always open to meet data enginers and learn from then and sharing the learning with community
+   - 👯 I'm always open to meet data enginers and learn from then and sharing the learning with community
 - 💬 I'm passionate about solving challenging data engineering problems and building world class data engineering solutions
 - 🤘 You can find various data engineering projects on my profile
 - 🧑🏻‍🏫 My Expertise 
