@@ -17,7 +17,13 @@
      - To Build efficent,scalable and reliable real time streaming load pipeline
      - To Contribute more towards open source projects 
      - To Lead and Mentor a data engineering Team
-     - To Learn How to architect better data system 
+     - To Learn How to architect better data system
+ 
+-  🧑🏻‍🏫 My Future Aspiration
+      - To Build efficent,scalable and reliable real time streaming load pipeline
+      - To Contribute more towards open source projects 
+      - To Lead and Mentor a data engineering Team
+      - To Learn How to architect better data system 
 - 📫 Here's how you can reach me: [LinkedIn] (https://www.linkedin.com/in/ajay-kumar-56599626b)
 
 - My Certifications and Courses
