@@ -4,8 +4,8 @@
 
 
 - 😄 My pronouns are: He/His/Him
-- 🔭 I’m currently working as a Data engineer at Centene Corporation
-   - 👯 I'm always open to meet new data enginers and learn from then 
+- 🔭 I’m currently working as a Data engineer at Centene
+   - 👯 I'm always open to meet new data enginers and learn from them 
    - 💬 I'm passionate about solving challenging data engineering problems and building world class data engineering solutions
    - 🤘 You can find various data engineering projects on my profile
 - 🧑🏻‍🏫 My Expertise
@@ -17,7 +17,7 @@
      - To Build efficent,scalable and reliable real time streaming load pipeline
      - To Contribute more towards open source projects 
      - To Lead and Mentor a data engineering Team
-     - To Learn How to architectect better data system 
+     - To Learn How to architect better data system 
 - 📫 Here's how you can reach me: [LinkedIn] (https://www.linkedin.com/in/ajay-kumar-56599626b)
 
 - My Certifications and Courses
