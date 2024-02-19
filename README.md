@@ -21,6 +21,8 @@
  
 -  ### 📖 My Tech Stack
    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+   ![snowflake_logo_icon_168808](https://github.com/Ajayacme339/Ajayacme339/assets/60890279/1677cd6c-bfa7-4922-b0b9-37a3e6837151)
+
       - To Contribute more towards open source projects 
       - To Lead and Mentor a data engineering Team
       - To Learn How to architect better data system 
