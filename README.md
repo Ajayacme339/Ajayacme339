@@ -3,7 +3,7 @@
 ## Thanks for stopping by. Here's a little bit about myself...
 
 
-- 😄 **My pronouns are: He/His/Him
+- 😄 My pronouns are: He/His/Him
 - 🔭 **I’m currently working as a Data engineer at Centene**
    - 👯 I'm always open to meet new data enginers and learn from them 
    - 💬 I'm passionate about solving challenging data engineering problems and building world class data engineering solutions
