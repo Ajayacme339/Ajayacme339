@@ -31,10 +31,10 @@
 - My Certifications and Courses
 
      -[Azure Data Fundamentals-DP900](https://www.credly.com/badges/b2833dbf-2b67-4cef-b067-ce3da3ae014e/linked_in_profile)
-     -[Azure Fundamentals-AZ900](https://www.credly.com/badges/8eaf210d-673a-46af-9892-207f3f2e2680/linked_in_profile)
-     -[Azure Data Engineering Associate-DP203](https://learn.microsoft.com/api/credentials/share/en-us/Ajaykumar-4148/4EB6288C0868CB95?sharingId)
-     -[Power BI Data Analyst PL300](https://learn.microsoft.com/api/credentials/share/en-us/Ajaykumar-4148/411BFB8BC8221A34?sharingId)
-     -[Azure AI Fundamentals AI900](https://learn.microsoft.com/api/credentials/share/en-us/Ajaykumar-4148/B522C38F8015423A?sharingId)
+         -[Azure Fundamentals-AZ900](https://www.credly.com/badges/8eaf210d-673a-46af-9892-207f3f2e2680/linked_in_profile)
+         -[Azure Data Engineering Associate-DP203](https://learn.microsoft.com/api/credentials/share/en-us/Ajaykumar-4148/4EB6288C0868CB95?sharingId)
+        -[Power BI Data Analyst PL300](https://learn.microsoft.com/api/credentials/share/en-us/Ajaykumar-4148/411BFB8BC8221A34?sharingId)
+        -[Azure AI Fundamentals AI900](https://learn.microsoft.com/api/credentials/share/en-us/Ajaykumar-4148/B522C38F8015423A?sharingId)
   
 If you want to talk to me or want to discuess something then feel free to ping on Linkedin.
   
