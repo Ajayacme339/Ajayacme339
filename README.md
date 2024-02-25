@@ -28,6 +28,7 @@
       - Big Data Framework/Technology - Apache Spark,Apache Airflow,Pyspark and SparkSQL
    
 - 📫 Here's how you can reach me: [LinkedIn] (https://www.linkedin.com/in/ajay-kumar-56599626b)
+- My Certifications and Courses
 
    - My Certifications and Courses
     
