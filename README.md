@@ -29,7 +29,8 @@
    
 - 📫 Here's how you can reach me: [LinkedIn] (https://www.linkedin.com/in/ajay-kumar-56599626b)
 
-- My Certifications and Courses
+  - My Certifications and Courses
+    
      -[Azure Data Fundamentals-AZ900](https://www.credly.com/badges/b2833dbf-2b67-4cef-b067-ce3da3ae014e/linked_in_profile)
   
 If you want to talk to me or want to discuess something then feel free to ping on Linkedin.
