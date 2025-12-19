@@ -4,7 +4,7 @@
 
 
 - 😄 My pronouns are: He/His/Him
-- 🔭 **I’m currently working as a Data engineer at Centene**
+- 🔭 **I’m currently working as a Senior Data engineer at Centene**
    - 👯 I'm always open to meet new data enginers and learn from them 
    - 💬 I'm passionate about solving challenging data engineering problems and building world class data engineering solutions
    - 🤘 You can find various data engineering projects on my profile
@@ -18,6 +18,7 @@
      - To Contribute more towards open source projects 
      - To Lead and Mentor a data engineering Team
      - To Learn How to architect better data system
+     - To Build Generative AI,AI Agents and Agentic AI Application
  
 -  ### 📖 My Tech Stack
       - Languages - Python
@@ -26,6 +27,7 @@
       - BI/Visualization Tool - Power BI, Tableau
       - Data Integration/ETL Tool - Informatica Powercenter, Informatica IDQ , Azure Data Factory
       - Big Data Framework/Technology - Apache Spark,Apache Airflow,Pyspark and SparkSQL
+      - AI - Langchain,Langgraph,LLM,Generative AI ,AI agent,Agentic AI
    
 - 📫 Here's how you can reach me: [LinkedIn] (https://www.linkedin.com/in/ajay-kumar-56599626b)
 - My Certifications and Courses
